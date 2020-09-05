@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bxvs888.pandoraassistant.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bxvs888.pandoraassistant.MyBundle
 
 class MyApplicationService {
 
